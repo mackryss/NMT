@@ -6,7 +6,7 @@
     <title>Index</title>
 </head>
 <body>
-    <h1>Welcome to My Website</h1>
+    <h1>hello world</h1>
     <p>This is a simple website created using HTML and CSS.</p>
     <ul>
         <li><a href="about.html">About</a></li>
